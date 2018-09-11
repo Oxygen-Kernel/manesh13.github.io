@@ -6,7 +6,7 @@ body {
 
     position: relative;
 
-    background-color: black;
+    background-image :url("/home/manesh/manesh13.github.io/images/back.jpeg");
 
 }
 
@@ -75,7 +75,7 @@ h5 {
 }
 
 p {
-    color: #959094;
+    color: #4ffff4;
 
 }
 
@@ -228,7 +228,7 @@ div {
 }
 
 .section {
-    padding: 80px 0;
+    padding: 50px 0;
 
 }
 
@@ -268,7 +268,7 @@ div {
 
 .nav-menu.is-scrolling,
 .nav-menu.menu-is-open {
-    background-color: black;
+    background-color: purple;
 
 }
 

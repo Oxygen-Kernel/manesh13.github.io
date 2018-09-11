@@ -61,9 +61,9 @@ TextScramble = function () {
 // ——————————————————————————————————————————————————
 
 var phrases = [
-'SIDDHANT NAIK',
-'Life is either a daring adventure or nothing.',
-'Do not be embarrassed by your failures, learn from them and start again.',
+'MANESH BORKAR',
+'Everything you want is on the other side of the fear',
+'Don’t be embarrassed by your failures, learn from them and start again.',
 'Don’t wait. The time will never be just right.',
 'You Can’t Have A Better Tomorrow If You’re Still Thinking About Yesterday.',];
 
